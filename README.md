@@ -1,7 +1,7 @@
 ## Hi there I'm Andy, a Full-stack developer student at Holberton School!
 
 [![Twitter Badge](https://img.shields.io/badge/-@_andy_lopez_-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_andy_lopez_ "Follow on Twitter")
-[![Linkedin Badge](https://img.shields.io/badge/-Andres Lopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreslopezruiz/)](https://www.linkedin.com/in/andreslopezruiz/)
+[![Linkedin Badge](https://img.shields.io/badge/-Andres Lopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andylopezruiz/)]
 [![Medium Badge](https://img.shields.io/badge/-@wisvem-black?style=flat-square&labelColor=black&logo=Medium&link=https://medium.com/@profesor.de.ingles/)](https://medium.com/@profesor.de.ingles)
 [![Gmail Badge](https://img.shields.io/badge/-carlos.lopez@holbertonschool.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.lopez@holbertonschool.com)](mailto:carlos.lopez@holbertonschool.com)
 
