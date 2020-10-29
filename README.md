@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there I'm Andy, a Full-stack developer student at Holberton School!
+
+[![Twitter Badge](https://img.shields.io/badge/-@_andy_lopez_-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_andy_lopez_ "Follow on Twitter")
+[![Linkedin Badge](https://img.shields.io/badge/-Andres Lopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreslopezruiz/)](https://www.linkedin.com/in/andreslopezruiz/)
+[![Medium Badge](https://img.shields.io/badge/-@wisvem-black?style=flat-square&labelColor=black&logo=Medium&link=https://medium.com/@profesor.de.ingles/)](https://medium.com/@profesor.de.ingles)
+[![Gmail Badge](https://img.shields.io/badge/-carlos.lopez@holbertonschool.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.lopez@holbertonschool.com)](mailto:carlos.lopez@holbertonschool.com)
+
+![Andres' github stats](https://github-readme-stats.vercel.app/api?username=andylopezr&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andylopezr&layout=compact)
 
 <!--
-**andylopezr/andylopezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="WVM | Twitter" width="35px" src="https://i.imgur.com/iYkheW1.png" />][Twitter]
 
-Here are some ideas to get you started:
+[<img align="left" alt="WVM | Medium" width="50px" src="https://cdn.freebiesupply.com/images/large/2x/medium-icon-white-on-black.png" />][Medium]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[Twitter]: https://twitter.com/_andy_lopez_
+[Medium]: https://medium.com/@profesor.de.ingles
 -->
