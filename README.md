@@ -1,4 +1,4 @@
-### Hi there I'm Andy, a Full-Stack Developer at Holberton School!
+### Hi there I'm Andy, a Full-Stack Developer!
 
 [![Twitter Badge](https://img.shields.io/badge/-@_andy_lopez_-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_andy_lopez_ "Follow on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/-andylopezr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreslopezruiz/)](https://www.linkedin.com/in/andreslopezruiz/)
