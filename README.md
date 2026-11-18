@@ -1,17 +1,30 @@
-### Hi there I'm Andy, a Full-Stack Developer!
+### Hi, I'm Andy 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@_andy_lopez_-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_andy_lopez_ "Follow on Twitter")
-[![Linkedin Badge](https://img.shields.io/badge/-andylopezr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreslopezruiz/)](https://www.linkedin.com/in/andreslopezruiz/)
-[![Medium Badge](https://img.shields.io/badge/-@andylopez-black?style=flat-square&labelColor=black&logo=Medium&link=https://medium.com/@profesor.de.ingles/)](https://medium.com/@profesor.de.ingles)
-[![Gmail Badge](https://img.shields.io/badge/-carlos.lopez@holbertonschool.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.lopez@holbertonschool.com)](mailto:carlos.lopez@holbertonschool.com)
+Senior full-stack / design engineer in Bogotá, Colombia 🇨🇴. I build React + TypeScript products for US teams, with a strong focus on design systems, accessibility, and getting things to production quickly.
 
-![Andres' github stats](https://github-readme-stats.vercel.app/api?username=andylopezr&show_icons=true)
+🟢 **Open to senior frontend, full-stack, and design-systems roles (remote).**
 
-<!--
-[<img align="left" alt="WVM | Twitter" width="35px" src="https://i.imgur.com/iYkheW1.png" />][Twitter]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-andreslopezruiz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreslopezruiz/)
+[![Email](https://img.shields.io/badge/Email-brandyxpx%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:brandyxpx@gmail.com)
+[![Nona](https://img.shields.io/badge/Live-nona.pizza-0B5563?style=flat-square&logo=fly.io&logoColor=white)](https://nona.pizza)
 
-[<img align="left" alt="WVM | Medium" width="50px" src="https://cdn.freebiesupply.com/images/large/2x/medium-icon-white-on-black.png" />][Medium]
+---
 
-[Twitter]: https://twitter.com/_andy_lopez_
-[Medium]: https://medium.com/@profesor.de.ingles
--->
+#### What I've been building
+
+- 🧩 **Titan Design System (SecurityScorecard):** I led the component library (React, TypeScript, Radix UI, Tailwind, Storybook). I also built a 7-layer CI pipeline that enforces WCAG 2.2 AA on every PR, so accessibility regressions can't merge.
+- 🏢 **Enterprise intranet for a global manufacturer:** took it from proof of concept to production in 4 weeks for about 20k employees. Stack: Next.js, Payload CMS, PostgreSQL, GCP. It includes permission-scoped search and an AI assistant over company content.
+- 🍕 **[Nona Pizzattoria](https://nona.pizza):** my own restaurant, where I'm the only engineer. I built the full platform: POS, kitchen display, inventory, floor-plan editor, and ticket printing routed per station. Stack: Elixir, Phoenix LiveView, Oban, Fly.io.
+
+#### Toolbox
+
+**Frontend:** React · TypeScript · Next.js · Tailwind · Radix UI · Storybook  
+**Backend:** Node.js · Python (Django, Flask) · Elixir / Phoenix · PostgreSQL  
+**Quality & delivery:** WCAG 2.2 / VPAT · Playwright · axe · GitHub Actions · GCP · Fly.io  
+**Ways of working:** design–engineering collaboration · AI-assisted (agentic) development · shipping small and often
+
+#### A bit more
+
+- Industrial designer turned engineer: Universidad Jorge Tadeo Lozano, then Holberton School.
+- I care about interfaces that are fast, accessible, and pleasant to maintain.
+- Fluent in English and Spanish.
